@@ -13,9 +13,6 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 </div>
 <br>
 
-![64a77b279cc7ac1ab45887c3--cheery-meringue-ed72cc netlify app_orders](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/bfac5176-62b6-4bb0-ba82-162423994107)
-
-
 # PARA CRIAR UM PRATO BASTA ACESSAR SEU PERFIL COM A CONTA ADMIN
 ![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/eaeeb4f0-aa1b-44e9-987e-65f6e5ca19e8)
 
