@@ -41,7 +41,7 @@ Back-end: [https://github.com/andrewchucrute/backend-food](https://github.com/an
 
 # Para acessar o site em funcionamento: [Click aqui!](https://64a77b279cc7ac1ab45887c3--cheery-meringue-ed72cc.netlify.app/)
 
-
+```
 perfil usuário andrew@gmail.com 
 senha: 123456
 <br>
