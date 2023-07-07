@@ -20,7 +20,7 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 ![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/eaeeb4f0-aa1b-44e9-987e-65f6e5ca19e8)
 
 # EM PEDIDOS COM O PERFIL ADMIN, VOCÊ PODE ALTERAR OS STATUS DO PEDIDO
-![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/13b642e0-7b45-43f4-9052-2b6a24f71746)
+![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/84e748d8-fbf1-4300-9e8d-76375ef00ccf)
 
 
 
