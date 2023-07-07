@@ -20,11 +20,7 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 
 
 ```bash
-## Instalação
-
-
-# Acessar a pasta do projeto pelo terminal
-  
+## Instalação  
 
 # Faça a instalação das depêndencias
   npm i
