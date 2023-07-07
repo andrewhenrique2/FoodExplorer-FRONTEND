@@ -44,7 +44,7 @@ Back-end: [https://github.com/andrewchucrute/backend-food](https://github.com/an
 ```
 perfil usuário andrew@gmail.com 
 senha: 123456
-<br>
+
 usuário: admin@email.com
 senha: 123456
 ```
