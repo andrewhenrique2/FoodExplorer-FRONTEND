@@ -14,7 +14,7 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 <br>
 
 
-![image](https://github.com/andrewchucrute/FrontEnd-Food/assets/103382295/ba213db0-14cc-4ff9-8f12-b43af23634df)
+![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/6e3ef11e-ad05-48bb-af7e-43a6d67f007a)
 
 
 
