@@ -81,7 +81,7 @@
             }
 
             .dishCategory select {
-            background: ${({ theme }) => theme.COLORS.BLUE_300};
+            background: ${({ theme }) => theme.COLORS.INPUT_BACKGROUND};
 
             border-radius: 0.5rem;
             border: none;
@@ -108,29 +108,25 @@
 
                 input[type='file'] {
                 display: none;
+            
                 }
                 
                 > label {
                     display: flex;
                     justify-content: center;
-
                     padding: 1.1rem 0.5rem;
                     gap: 0.5rem;
                     border-radius: 0.5rem;
-                    border: 1px solid ${({ theme }) => theme.COLORS.WHITE};
-
-                    background-color: ${({ theme }) => theme.COLORS.BACKGROUND_800};
-
+                    color: red;
                     font-family: 'Poppins', sans-serif;
                     font-size: 1.4rem;
                     font-weight: 500;
                     line-height: 2.4rem;
-
                     cursor: pointer;
                 }
 
                 > label:hover {
-                    background-color: ${({ theme }) => theme.COLORS.BLUE};
+                    background-color: ${({ theme }) => theme.COLORS.VERMELHO};
                 }
             }
 
@@ -146,11 +142,19 @@
                 border-radius: 0.8rem;
                 margin-bottom: 3.2rem;
                 border: 1px solid white;
+              
             }
 
             .ingredientsTag { 
+                svg {
+                background-color: white;
+                color: red;
+            }
                 justify-content: space-between;
             }
+            
+        
+            
 
             .price {
                 max-width: 15rem;
@@ -192,6 +196,10 @@
                 }
 
                 .ingredientsTag { 
+                  svg {
+                background-color: white;
+                color: red;
+            }
                     display: flex;
                     justify-content: space-between;
                     gap: 3.2rem;
