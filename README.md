@@ -37,7 +37,7 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 
 # Acesse o backend
 
-Back-end: [https://github.com/andrewchucrute/backend-food](https://github.com/andrewchucrute/backend-food)<br>
+Back-end: https://github.com/andrewchucrute/BackEndFoodExplorer
 
 # Para acessar o site em funcionamento: [Click aqui!](https://main--glowing-vacherin-d1828f.netlify.app/)
 
