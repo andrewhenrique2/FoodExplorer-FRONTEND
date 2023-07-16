@@ -39,7 +39,7 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 
 Back-end: [https://github.com/andrewchucrute/backend-food](https://github.com/andrewchucrute/backend-food)<br>
 
-# Para acessar o site em funcionamento: [Click aqui!](https://64a77b279cc7ac1ab45887c3--cheery-meringue-ed72cc.netlify.app/)
+# Para acessar o site em funcionamento: [Click aqui!](https://main--glowing-vacherin-d1828f.netlify.app/)
 
 ```
 perfil usuário andrew@gmail.com 
