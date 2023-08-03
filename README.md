@@ -8,6 +8,9 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 </div>
 <br>
 
+Este é o resultado do desafio final do Explorer, o Food Explorer.
+Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
+
 <div align="center">
   <img alt="Capa do projeto" title="FoodExplorer" src="https://i.imgur.com/eOwPbOt.jpg">
 </div>
@@ -48,5 +51,24 @@ senha: 123456
 usuário: admin@email.com
 senha: 123456
 ```
+# 🛠 Tecnologias
+As seguintes tecnologias foram empregadas na criação deste projeto:
 
+ReactJs
+Node.js
+Javascript
+Vite
+Express
+Nodemon
+SQLite
+Knex
+BCryptjs
+JSON Web Token
+Multer
+CORS
+Axios
+Styled Components
+React Icons
+Swiper
+React Router Dom
 
