@@ -55,20 +55,36 @@ senha: 123456
 As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ReactJs
+<br>
 Node.js
+<br>
 Javascript
+<br>
 Vite
+<br>
 Express
+<br>
 Nodemon
+<br>
 SQLite
+<br>
 Knex
+<br>
 BCryptjs
+<br>
 JSON Web Token
+<br>
 Multer
+<br>
 CORS
+<br>
 Axios
+<br>
 Styled Components
+<br>
 React Icons
+<br>
 Swiper
+<br>
 React Router Dom
 
