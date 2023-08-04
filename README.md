@@ -11,9 +11,8 @@ O projeto tem duas partes: `Front-end` e `Back-end`
 Este é o resultado do desafio final do Explorer, o Food Explorer.
 Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
 
-<div align="center">
-  <img alt="Capa do projeto" title="FoodExplorer" src="https://i.imgur.com/eOwPbOt.jpg">
-</div>
+![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/9b230584-efd0-4ef0-92c8-00fe1374bb8e)
+
 <br>
 
 # PARA CRIAR UM PRATO BASTA ACESSAR SEU PERFIL COM A CONTA ADMIN E CLICAR EM CRIAR NOVO PRATO
