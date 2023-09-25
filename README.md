@@ -15,10 +15,11 @@ Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
 
 <br>
 
-# PARA CRIAR UM PRATO BASTA ACESSAR SEU PERFIL COM A CONTA ADMIN E CLICAR EM CRIAR NOVO PRATO
+# Para criar um prata basta acessar a conta admin e acessar o perfil e clicar em criar novo prata, assim podendo botar todas as especificações do prato.
+
 ![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/eaeeb4f0-aa1b-44e9-987e-65f6e5ca19e8)
 
-# EM PEDIDOS COM O PERFIL ADMIN, VOCÊ PODE ALTERAR OS STATUS DO PEDIDO
+# Você pode alterar o status do pedido com o perfil admin
 ![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/84e748d8-fbf1-4300-9e8d-76375ef00ccf)
 
 
