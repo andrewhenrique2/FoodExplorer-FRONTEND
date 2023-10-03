@@ -1,36 +1,41 @@
 
-# FOOD EXPLORER
-Aplicação de um cardápio digital<br>
-O projeto tem duas partes: `Front-end` e `Back-end`
+<h1 align="center">
+   Food Explorer 🍽
+</h1>
+<img src="https://i.imgur.com/q8WONbr.png">
 
-<div align="center">
+## 🚀 Começando...
 
-</div>
-<br>
+Projeto Final do curso Explorer da Rocketseat: 
+- O Food Explorer é um menu digital para um restaurante fictício.
+- Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
+- Deploy do projeto: https://main--glowing-vacherin-d1828f.netlify.app
+```
+perfil usuário andrew@gmail.com 
+senha: 123456
 
-Este é o resultado do desafio final do Explorer, o Food Explorer.
-Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
+usuário: admin@email.com
+senha: 123456
+```
 
-<br> 
-Com o perfil de usuário você pode escolher um prato na loja, pode favoritar, editar seu perfil, comprar um prato.
-<br> 
-Com o perfil de admin você pode fazer alterações nos pratos, trocar o status do pedido, criar um novo prato, excluir pratos.
-<br> 
+### Mobile 📱
 
-![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/9b230584-efd0-4ef0-92c8-00fe1374bb8e)
+<p>
 
-<br>
+<img src="https://i.imgur.com/6ussL54.png" height="600" width="300">
+<img src="https://i.imgur.com/bUgpIBS.png" height="600" width="300">
+<img src="https://i.imgur.com/4I1pcQE.png" height="600" width="300">
+<img src="https://i.imgur.com/qfheYsg.png" height="600" width="300">
 
-# Para criar um prata basta acessar a conta admin e acessar o perfil e clicar em criar novo prata, assim podendo botar todas as especificações do prato.
-
-![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/eaeeb4f0-aa1b-44e9-987e-65f6e5ca19e8)
-
-# Você pode alterar o status do pedido com o perfil admin
-![image](https://github.com/andrewchucrute/FoodExplorer-FRONTEND/assets/103382295/84e748d8-fbf1-4300-9e8d-76375ef00ccf)
+<img src="https://i.imgur.com/67c4Eb3.png" height="600" width="300">
+<img src="https://i.imgur.com/SstOxbF.png" height="600" width="300">
 
 
 
 
+
+  
+</p>
 
 
 ```bash
