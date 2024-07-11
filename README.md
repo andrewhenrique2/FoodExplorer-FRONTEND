@@ -3,7 +3,7 @@
    Food Explorer 🍽
 </h1>
 
-![main--glowing-vacherin-d1828f netlify app_ (3)](https://github.com/andrewhenrique2/FoodExplorer-FRONTEND/assets/103382295/0086f182-81e3-4fd5-a11a-fada8d277e14)
+![food](https://github.com/andrewhenrique2/FoodExplorer-FRONTEND/assets/103382295/771d5cc2-95ca-4309-8c76-830ed36367e3)
 
 
 ## 🚀 Começando...
