@@ -2,7 +2,9 @@
 <h1 align="center">
    Food Explorer 🍽
 </h1>
-<img src="https://i.imgur.com/q8WONbr.png">
+
+![main--glowing-vacherin-d1828f netlify app_ (3)](https://github.com/andrewhenrique2/FoodExplorer-FRONTEND/assets/103382295/0086f182-81e3-4fd5-a11a-fada8d277e14)
+
 
 ## 🚀 Começando...
 
